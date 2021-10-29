@@ -2,6 +2,12 @@
 MonstAR is the combination of Monsters and Augmented Reality. It augments the physical experience of playing card games like Pokemon or YuGiOh. 
 It´s a project which will be developed by Andreas Riedel, Michael Kronester and Daniel Peters in frame of the AR VR course in UXDM WS21.
 ## Idea
+The goal of the App is to have fun gaming and training the monster and collecting them.
+Monsters do have a unique card which can be tracked by image recognition.
+There are different variations and every monster belongs to a type.
+They also have multiple evolution forms.
+They also will have different movesets attacks (about 2 for now).
+Optionally they can also be trained/leveled up by connecting to your fitness app (Walking, standing, training)
 
 ## Technical 
 
