@@ -5,8 +5,6 @@ It´s a project which will be developed by Andreas Riedel, Michael Kronester and
 
 ## Technical 
 
-## Input 
-
-## Output
+## Components
 
 ## Design
