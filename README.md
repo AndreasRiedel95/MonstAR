@@ -10,6 +10,21 @@ They also will have different movesets attacks (about 2 for now).
 Optionally they can also be trained/leveled up by connecting to your fitness app (Walking, standing, training)
 
 ## Technical 
+### General:
+Mobile Device with possibility to use AR Technology 
+Playcards with image of the Monsters to track 
+Space to walk around for the Portal View
+
+### Technical needed for Implementation: 
+Unity, VSCode, xCode, Android Studio, AR Foundation
+Apple ARKit /Android ARCore
+Device with MacOS for running xCode 
+
+### Interaction Techniques: 
+The user can project a 3D model of the monsters on the cards by focusing the respective cards with the camera. 
+The user can have the monsters fight or interact with each other through touch interactions on the screen.
+The monsters can be viewed in real "human" size and in every detail by walking through the portal, walking around the monsters and pointing the AR on them
+
 
 
 
