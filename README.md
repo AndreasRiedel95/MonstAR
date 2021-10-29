@@ -11,7 +11,18 @@ Optionally they can also be trained/leveled up by connecting to your fitness app
 
 ## Technical 
 
+
+
 ## Components
+Mobile Scene
+Image based tracking (on Card but also possible on Smartwatch).
+Augmentation of 3D Models of Monsters on the image.
+Augmenting Monster Stats around the monster.
+Battle Mode between two monsters as soon as two images are recognized and monsters look at each other
+
+Monster Reserve
+Walking through a portal into a monster reserve.
+seeing all collected monsters in their true size.
 
 ## Design Examples
 The Design is meant to be abstract and playful. The Habitat will look friendly as it is the natural habitat of your monsters.
