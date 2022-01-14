@@ -4,6 +4,10 @@ It´s a project which will be developed by Andreas Riedel, Michael Kronester and
 ## Idea
 The goal of the app is to train monsters and have them fight each other. Each monster has a unique game card that can be tracked through image recognition. When the game card is tracked, the monster is displayed in a 3D model on the game card. It is also possible to uplaod the image of the game card on a smartwatch in order to acess AR functionality and inspect/check on the monsters on the go. Once two cards are placed so that they face each other, the monsters can fight each other through actions on the screen. Each monster has several development possibilities. They can be trained/pushed by connecting them to a fitness app. Through your walking, standing and fitness actions, the monsters can be then leveled up and potentially evolve. Furthermore, all collected monsters can be viewed in detail in a separate portal. When you enter this portal, you will see a list of all the monsters you have in real "human" size.
 
+##Wiki
+
+[MonstAR Wiki](001_MonstAR_Documentation_Kronester_Peters_Riedel.pdf)
+
 ## Technical 
 ### General:
 * Mobile Device with possibility to use AR Technology 
